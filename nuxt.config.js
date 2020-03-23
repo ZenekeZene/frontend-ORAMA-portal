@@ -22,13 +22,11 @@ export default {
   /*
   ** Global CSS
   */
-  css: [
-  ],
+  css: ['./node_modules/frontend-orama-ui/lib/styles/main.scss'],
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: [],
   /*
   ** Nuxt.js dev-modules
   */
